@@ -5,7 +5,7 @@
 	(uuid "01478e3d-58c3-4ed1-bf36-bee13a363047")
 	(paper "B")
 	(title_block
-		(title "OpenForge Cover Page")
+		(title "ginger-micro-board Cover Page")
 	)
 	(lib_symbols)
 	(text_box "3"
